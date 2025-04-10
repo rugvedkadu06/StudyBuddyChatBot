@@ -3,6 +3,10 @@
 
 **StudyBuddy** is a smart AI-powered chatbot designed to support students in their academic journey. It offers instant answers, detailed explanations, and helpful guidance through a simple and intuitive conversational interface. Whether you're stuck on a tricky math problem or need help understanding a complex concept, StudyBuddy is here to help — 24/7! 💬📚
 
+
+> ⚠️ **Note:** Voice commands currently work **only in Google Chrome**.
+
+
 ---
 
 ## 📁 Project Structure
