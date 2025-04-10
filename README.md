@@ -6,7 +6,6 @@
 
 > ⚠️ **Note:** Voice commands currently work **only in Google Chrome**.
 
-
 ---
 
 ## 📁 Project Structure
