@@ -107,5 +107,4 @@ npm run dev
 
 ## 📬 Contact
 
-Made with ❤️ by **Rugved Kadu**  
 Have questions or suggestions? Feel free to reach out or open an issue!
